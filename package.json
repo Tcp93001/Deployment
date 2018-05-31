@@ -1,0 +1,23 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "Ultima clase de deployment GH 30 de mayo 2018",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tcp93001/Deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tcp93001/Deployment/issues"
+  },
+  "homepage": "https://github.com/Tcp93001/Deployment#readme"
+}
